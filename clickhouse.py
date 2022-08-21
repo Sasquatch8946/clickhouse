@@ -1,5 +1,7 @@
 #!/bin/python3
 
+# exercise 11 from chapter 4 of "Python Programming" by John Zelle
+
 # this program allows the user to draw a house in 5 clicks using the graphics.py module
 
 import graphics
